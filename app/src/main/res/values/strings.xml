@@ -1,0 +1,49 @@
+<resources>
+    <string name="app_name">Tytta Friends</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="phonetext">Enter a phone number that can be used to verify your identity with a text message or phone call. </string>
+
+    <string name="facebook_app_id">783076868783248</string>
+    <string name="fb_login_protocol_scheme">fb783076868783248</string>
+
+
+    <!--
+    <string name="facebook_app_id">fb_app_id</string>
+    <string name="fb_login_protocol_scheme">fb(fb_app_id)</string>
+    -->
+
+
+    <string name="my_Interstitial_Add">ca-app-pub-6313968089682711/7405590766</string>
+    <string name="my_banner_ad">ca-app-pub-3940256099942544/6300978111</string>
+
+
+    <string name="subscription_txt">By tapping “Continue”, your payment will be charged to your Google Play
+        account, and your subscription will automatically renew for the same
+        package length at the same price until you cancel it in settings in the
+        Google Play store at least 24 hours prior to the end of the current period.
+        By tapping “Continue”, you agree to our Privacy Policy and Terms.</string>
+
+
+
+    <string name="google_debug_key">AIzaSyBHrCg0LEI_ZDZFAG3QMTGnEVsxax5x0gM</string>
+
+
+    <string name="google_release_key">AIzaSyBHrCg0LEI_ZDZFAG3QMTGnEVsxax5x0gM</string>
+
+
+    <string name="Places_api">AIzaSyBHrCg0LEI_ZDZFAG3QMTGnEVsxax5x0gM</string>
+
+
+
+
+
+    <string name="version">61.0</string>
+
+    <string name="device">android</string>
+
+
+
+
+</resources>

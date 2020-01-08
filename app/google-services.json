@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "958366646553",
+    "firebase_url": "https://tyttachat-33c91.firebaseio.com",
+    "project_id": "tyttachat-33c91",
+    "storage_bucket": "tyttachat-33c91.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:958366646553:android:697fabdabce3a6c8a24588",
+        "android_client_info": {
+          "package_name": "com.tytta.binder"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "958366646553-lhgmq80evhasj959j2ejfi26j1lemtfu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.tytta.binder",
+            "certificate_hash": "d5009fd5c4b86d75728a6e2a5d7efeae3c50c374"
+          }
+        },
+        {
+          "client_id": "958366646553-kda274f726ovm04btkr4mqajak3ta2e2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD-DJJ2ka583IeJB2vmRQEhhdMNgAu7Rhk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "958366646553-fr2og0bh11f3nu4qgfpu61ir90id486h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
